@@ -65,3 +65,4 @@ void findColSum(const double *array1,double *array2,int N,int M){
 		}
 	}
 }
+//gg
