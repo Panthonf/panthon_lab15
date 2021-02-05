@@ -42,7 +42,7 @@ void showData(double *a,int b,int c){
     }
 }
 
-void randData(double *x,int y,int z){
+void randData(double *array,int N,int M){
     for(int i = 0; i < N*M; i++){
         data = (rand()%99)+1;
     }
